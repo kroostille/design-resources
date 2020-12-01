@@ -114,8 +114,9 @@
 
 ###### Images
 * [Pexels](https://pexels.com): Best free stock photos in one place.
-* [Unsplash.it](http://unsplash.it): Placeholders using a beautiful image gallery.
+* [Unsplash.it](https://unsplash.com/): Placeholders using a beautiful image gallery.
 * [Pixabay](https://pixabay.com/): High quality photos and illustrations free for commercial use.
 * [Placehold.it](http://placehold.it): A quick and simple image placeholder service.
 * [Imgur](http://imgur.com): The most awesome images on the internet.
 * [Flickr](https://www.flickr.com): The home for all your photos.
+* [Nikkor] (https://www.flickr.com/photos/tags/nikkor)
