@@ -16,13 +16,15 @@
 - [Guidelines](#guidelines)
 - [Colors](#colors)
 - [Typography](#typography)
-- [Icons](#icons)
+- [Icons & Illustrations](#icons-&-Illustrations)
 - [Images](#images)
 
 ## General
 
 ###### Inspiration
 
+- [Httpster](https://httpster.net/2020/nov/)
+- [Muzli Design](https://httpster.net/2020/nov/): chrome extension by inVision.
 - [Awwwards](http://awwwards.com): Best web design trends.
 - [One Page Love](http://onepagelove.com): Design gallery showcasing the best Single Page websites.
 - [Inspired UI](http://inspired-ui.com/): Mobile apps design patterns.
@@ -31,6 +33,7 @@
 - [Product Hunt](http://producthunt.com): The place to discover your next favorite thing.
 - [UI Movement](https://uimovement.com): The best UI design inspiration, every day.
 - [Pttrns](http://pttrns.com/): The finest collection of design patterns, resources and inspiration.
+- [Mobbin](https://mobbin.design/): The latest IOS UI mobile design patterns.
 
 ###### Productivity
 
@@ -73,7 +76,8 @@
 
 ###### Communities
 
-- [Team Sketch](http://teamsketch.io): A community for Sketch designers powered by Slack
+- [WD&Dev Toolkit](https://toolkit.webwide.io/): a toolkit and community.
+- [Team Sketch](http://teamsketch.io): A community for Sketch designers powered by Slack.
 - [Designer Hangout](https://www.designerhangout.co): A place where UXers from around the world discuss user experience.
 - [Design Talks](https://docs.google.com/forms/d/e/1FAIpQLSeKT_LC8kKTzJ4JjmgVQVpfl24i1qBkjJ7TYyQcNHL7fBQkYQ/viewform?c=0&w=1): A community for UI/UX design, web design, freelancing, design critiques, etc.
 - [TheDesignerShip](http://thedesignership.com/): A community of over 1,500+ designers and founders.
@@ -82,10 +86,12 @@
 
 ###### Guidelines
 
+- [Degreeless](https://www.degreeless.design/): almost everthing you need to know as designer.
 - [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/) to build engaging iOS apps.
 - [Google Material Design](https://material.google.com/) provides design, components & resources for Google's brand.
 - [Laws of UX](https://lawsofux.com/) shares the maxims and principles to consider when building user interfaces.
 - [Ultimate Guide](https://www.moveoapps.com/ultimate-guide-to-mobile-app-design-principles) gives mobile app design principles and guidances.
+- [Checklist Design](https://www.checklist.design/): very useful checklists when doing a design project.
 
 ###### Colors
 
@@ -109,9 +115,14 @@
 - [WhatTheFont](https://www.myfonts.com/WhatTheFont/): Seen a font in an image and want to know what it is? WhatTheFont will find the closest match.
 - [Typewolf](https://www.typewolf.com/): Comprehensive web typography info, suggestions for font alternatives, and links to usage in the wild.
 - [Typ.io](http://typ.io/): Typography inspiration from real websites.
+- [IBM Design Language](https://www.ibm.com/design/language/)
+- [Adobe Fonts](https://fonts.adobe.com/fonts?browse_mode=default&tag=luxury)
 
-###### Icons
+###### Icons & Illustrations
 
+- [Undraw](https://undraw.co/illustrations): 100s of free illustrations.
+- [Iconscout](https://iconscout.com/):Icons, illustrations and 3D assets (not free).
+- [UI8](https://ui8.net/products/all-access-pass): animation templates, wireframes, ui-kit, icons, illustrations, mockups, etc. (not free). 
 - [Flat Icon](http://flaticon.com): Thousands of free flat icons.
 - [Font Awesome](http://fontawesome.io): The iconic font and CSS toolkit.
 - [Icon Finder](http://iconfinder.com): 1 million free and premium icons.
@@ -131,3 +142,4 @@
 - [Imgur](http://imgur.com): The most awesome images on the internet.
 - [Flickr](https://www.flickr.com): The home for all your photos.
 - [Nikkor](https://www.flickr.com/photos/tags/nikkor)
+- [Shutterstock](https://www.shutterstock.com/)
