@@ -68,6 +68,28 @@
 - [Atomic.io](https://atomic.io/): Free in Browser interactive design Tool.
 - [Flinto](https://www.flinto.com/): App to create interactive and animated prototypes of designs.
 
+
+###### Animation Tools
+- [Framer](https://www.framer.com/): simpel to use, use it on your prototypes.
+- [Flow](https://createwithflow.com/): suble learning curve.
+- After effects: quite complex.
+- Protopie
+
+###### Testing Tools
+- [Maze](https://maze.co/): remain complex to set up but allow rapid testing remotely.
+
+
+###### Web development Tools (without code)
+- [Webflow](https://webflow.com/dashboard?r=1): help for responsive design too.
+- Wordpress
+- Divi
+- Elementor
+
+###### Mock up Tools
+- Device Mockup Library (figma)
+- [Mockup World](https://www.mockupworld.co/): propose des mock-ups pour tout (devices et products) / free ones available
+-[Mockuuups Studio](https://mockuuups.studio/): très bon mock-up pour devices avec abonnement 5-6€/mois et 10 free
+
 ###### Tutorials
 
 - [Treehouse](https://teamtreehouse.com/tracks/web-design): Brings affordable, technology education to people everywhere.
