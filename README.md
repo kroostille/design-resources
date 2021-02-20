@@ -170,3 +170,7 @@
 - [Flickr](https://www.flickr.com): The home for all your photos.
 - [Nikkor](https://www.flickr.com/photos/tags/nikkor)
 - [Shutterstock](https://www.shutterstock.com/)
+
+###### Patterns
+- [Hero Patterns](https://www.heropatterns.com/)
+- [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/)
