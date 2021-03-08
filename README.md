@@ -10,7 +10,7 @@
 - [Prototype Tools](#prototype-tools)
 - [Animation Tools](animation-tools)
 - [Testing Tools](testing-tools)
-- [Web development Tools](web-development-tools)
+- [Web Development Tools](web-development-tools)
 - [Mock up Tools](mock-up-tools)
 - [Tutorials](#tutorials)
 - [Communities](#communities)
@@ -85,8 +85,7 @@
 - [Maze](https://maze.co/): remain complex to set up but allow rapid testing remotely.
 
 
-###### Web development Tools 
-(without code)
+###### Web Development Tools 
 - [Webflow](https://webflow.com/dashboard?r=1): help for responsive design too.
 - Wordpress
 - Divi
