@@ -8,6 +8,10 @@
 - [Productivity Tools](#productivity-tools)
 - [Design Tools](#design-tools)
 - [Prototype Tools](#prototype-tools)
+- [Animation Tools](animation-tools)
+- [Testing Tools](testing-tools)
+- [Web development Tools](web-development-tools)
+- [Mock up Tools](mock-up-tools)
 - [Tutorials](#tutorials)
 - [Communities](#communities)
 
@@ -18,7 +22,9 @@
 - [Typography](#typography)
 - [Icons & Illustrations](#icons-&-Illustrations)
 - [Images](#images)
+- [Patterns](#patterns)
 
+###### Mock up Tools
 ## General
 
 ###### Inspiration
@@ -148,6 +154,7 @@
 
 ###### Icons & Illustrations
 
+- [Streamline](https://app.streamlinehq.com/home)
 - [Undraw](https://undraw.co/illustrations): 100s of free illustrations.
 - [Iconscout](https://iconscout.com/):Icons, illustrations and 3D assets (not free).
 - [UI8](https://ui8.net/products/all-access-pass): animation templates, wireframes, ui-kit, icons, illustrations, mockups, etc. (not free). 
