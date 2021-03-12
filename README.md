@@ -154,7 +154,8 @@
 
 ###### Icons & Illustrations
 
-- [Streamline](https://app.streamlinehq.com/home)
+- [Vecteezy](https://www.vecteezy.com/): free vector art, stock photos & videos.
+- [Streamline](https://app.streamlinehq.com/home): free icons and illustrations.
 - [Undraw](https://undraw.co/illustrations): 100s of free illustrations.
 - [Iconscout](https://iconscout.com/):Icons, illustrations and 3D assets (not free).
 - [UI8](https://ui8.net/products/all-access-pass): animation templates, wireframes, ui-kit, icons, illustrations, mockups, etc. (not free). 
