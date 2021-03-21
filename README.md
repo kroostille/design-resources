@@ -95,7 +95,7 @@
 - Device Mockup Library (figma)
 - [XDGuru](https://www.xdguru.com/): templates, UI kits for Adobe XD
 - [Mockup World](https://www.mockupworld.co/): propose des mock-ups pour tout (devices et products) / free ones available
--[Mockuuups Studio](https://mockuuups.studio/): très bon mock-up pour devices avec abonnement 5-6€/mois et 10 free
+- [Mockuuups Studio](https://mockuuups.studio/): très bon mock-up pour devices avec abonnement 5-6€/mois et 10 free
 - [A list of free iPhone 12 mockups to enhance your mobile designs](https://dribbble.com/stories/2021/02/03/free-iphone-12-mockups-templates?utm_campaign=2021-02-10&utm_medium=email&utm_source=courtside-20210210)
 
 
@@ -154,6 +154,7 @@
 
 ###### Icons & Illustrations
 
+- [Storytale](https://storytale.io/): High-class web illustrations under simple subscription.
 - [Vecteezy](https://www.vecteezy.com/): free vector art, stock photos & videos.
 - [Streamline](https://app.streamlinehq.com/home): free icons and illustrations.
 - [Undraw](https://undraw.co/illustrations): 100s of free illustrations.
