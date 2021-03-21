@@ -92,7 +92,8 @@
 - Elementor
 
 ###### Mock up Tools
-- Device Mockup Library (figma)
+- [Mockups - UI8](https://ui8.net/): parmi les plus professionnels (payant).
+- [Device Mockup Library](https://www.figma.com/community/file/786708730400780813): un free plugin sur Figma.
 - [XDGuru](https://www.xdguru.com/): templates, UI kits for Adobe XD
 - [Mockup World](https://www.mockupworld.co/): propose des mock-ups pour tout (devices et products) / free ones available
 - [Mockuuups Studio](https://mockuuups.studio/): très bon mock-up pour devices avec abonnement 5-6€/mois et 10 free
