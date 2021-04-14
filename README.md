@@ -20,7 +20,7 @@
 - [Guidelines](#guidelines)
 - [Colors](#colors)
 - [Typography](#typography)
-- [Icons & Illustrations](#icons-&-Illustrations)
+- [Icons & Illustrations](#icons-&-illustrations)
 - [Images](#images)
 - [Patterns](#patterns)
 
@@ -120,6 +120,7 @@
 
 ###### Guidelines
 
+- [Module](https://modulesystem.design/): provides dessign system template and easy customisable (lifetime paid plan).
 - [Degreeless](https://www.degreeless.design/): almost everthing you need to know as designer.
 - [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/) to build engaging iOS apps.
 - [Google Material Design](https://material.google.com/) provides design, components & resources for Google's brand.
@@ -141,6 +142,7 @@
 
 ###### Typography
 
+- [Open Foundry](https://open-foundry.com/fonts/aileron_black): access to free modeern fonts.
 - [icons8](https://icons8.com/fonts/open-sans/helvetica): To see typographies that match together.
 - [Fontpair](http://fontpair.co): Beautiful Google Font combinations and pairs.
 - [Google Web Fonts](http://fonts.google.com): Offering an intuitive and robust directory of open source designer web fonts.
