@@ -65,7 +65,6 @@
 
 ###### Prototype Tools
 
-- [Framer](https://www.framer.com/)
 - [Zeplin](https://zeplin.io/): A great collaboration tool between designers and developers.
 - [Avocode](https://avocode.com/): A workspace open to all designers and developers.
 - [inVision](https://www.invisionapp.com/): The world's leading prototyping, collaboration & workflow platform.
