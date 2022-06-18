@@ -138,7 +138,9 @@
 - [Gradients.io](http://www.gradients.io/): Curated gradients for designers & developers.
 - [UI Gradients](http://uigradients.com/): Beautiful color gradients.
 - [Colorzilla](http://colorzilla.com): Eyedropper, color picker, gradient generator.
-- Testing colors: https://colorable.jxnblk.com/1e2648/00ffa2
+- [Happy Hues](https://www.happyhues.co/): Compare and find pre-built color palets.
+
+- 
 
 ###### Typography
 
