@@ -140,8 +140,6 @@
 - [Colorzilla](http://colorzilla.com): Eyedropper, color picker, gradient generator.
 - [Happy Hues](https://www.happyhues.co/): Compare and find pre-built color palets.
 
-- 
-
 ###### Typography
 
 - [Open Foundry](https://open-foundry.com/fonts/aileron_black): access to free modeern fonts.
