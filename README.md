@@ -187,3 +187,21 @@
 ###### Patterns
 - [Hero Patterns](https://www.heropatterns.com/)
 - [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/)
+
+# Hero
+======
+
+[  ] Fix `H1` font that not appear like `Plus Jakarta Sans`
+[  ] Fix `subtitles` font that not appear like `Plus Jakarta Sans`
+[  ] Fix `text` font that not appear like `Inter`
+[  ] Update the svg wallet with the latest version
+[  ] Increase the svg wallet size on large screen
+[  ] Remove the `hover state` of the `CTA`and `icon` or link it to Flipper Twitter
+[  ] Increasse the size of the `CTA` to ‘height : 60px'
+
+
+# Footer
+======
+
+[  ] Fix the `index issue` of the footer between 1000-1300px approximately the footer goes inside the body part
+[  ] Fix the footer links ‘font-weight : 600’
