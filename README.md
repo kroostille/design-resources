@@ -322,8 +322,8 @@
 
 
 ###### Patterns
-- [Hero Patterns](https://www.heropatterns.com/)
-- [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/)
+- [Hero Patterns](https://www.heropatterns.com/): a collection of repeatable SVG background patterns for you to use on your web projects
+- [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/): free textures collection
 - [Durves](https://www.durves.com/): Unique curve pattern generator
 - [FFFuel](https://fffuel.co/): SVG generators and design tools
 - [Procreate Folio](https://folio.procreate.com/showcase): Showcase of Procreate artwork
