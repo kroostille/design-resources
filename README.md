@@ -96,6 +96,7 @@
 - [Curated Design](https://www.curated.design/): Hand-picked design inspiration
 - [Ready Mag](https://readymag.com/examples/): Website inspirations made with Readymag
 - [Simform Mobile Patterns](https://www.simform.com/mobile-patterns/home): Mobile UI pattern examples
+- [Klart Pixels](https://klart.io/pixels): Handpicked design inspiration
 
 
 ###### Productivity
@@ -123,7 +124,9 @@
 - [QuestionPro Survey Templates](https://www.questionpro.com/survey-templates/customer-satisfaction-surveys/): Customer satisfaction survey templates
 - [Typeform Product Survey Questions](https://www.typeform.com/surveys/product-survey-questions-examples/): Product survey question examples
 - [JotForm Product Survey Templates](https://www.jotform.com/form-templates/survey/product-surveys): Customizable product survey templates
-- [Maze](https://maze.co/): remain complex to set up but allow rapid testing remotely.
+- [Maze](https://maze.co/): remain complex to set up but allow rapid testing remotely
+- [Goal Project Tasks Template](https://www.notion.so/f5748b94e53d43968980fd964be8d3df?pvs=21): Notion template for project management
+
 
 
 ###### Design Tools
@@ -172,6 +175,7 @@
 - [A list of free iPhone 12 mockups to enhance your mobile designs](https://dribbble.com/stories/2021/02/03/free-iphone-12-mockups-templates?utm_campaign=2021-02-10&utm_medium=email&utm_source=courtside-20210210)
 - [Artboard Studio](https://artboard.studio/templates): Online graphic design tool with mockup templates
 - [LS Graphics](https://www.ls.graphics/): High-quality mockups and design resources
+- [MockRocket](https://mockrocket.io/): AI-powered mockup generator
 
 
 ###### Tutorials
@@ -197,22 +201,32 @@
 - [Module](https://modulesystem.design/): provides dessign system template and easy customisable (lifetime paid plan).
 - [Degreeless](https://www.degreeless.design/): almost everthing you need to know as designer.
 - [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/) to build engaging iOS apps.
-- [Google Material Design](https://material.google.com/) provides design, components & resources for Google's brand.
 - [Laws of UX](https://lawsofux.com/) shares the maxims and principles to consider when building user interfaces.
 - [Ultimate Guide](https://www.moveoapps.com/ultimate-guide-to-mobile-app-design-principles) gives mobile app design principles and guidances.
 - [Checklist Design](https://www.checklist.design/): very useful checklists when doing a design project.
 - [Magenta A11y](https://www.magentaa11y.com/): Accessibility guide and checklist
 - [Intopia Accessibility Checklist](https://not-checklist.intopia.digital/): Detailed web accessibility checklist
+- [The UX Cookbook](https://theuxcookbook.com/): Collection of UX best practices and guidelines
+- [Product Design Cool](https://www.notion.so/48d76e4b4252443eb2ae77ff0ab8cfca?pvs=21): Curated resources for product designers
+- [Washington Post Design System](https://build.washingtonpost.com/): Guidelines for Washington Post's digital products
+- [Felix' Designer Handbook](https://www.notion.so/3511ac03434c49a19f8c4d27aa3c3630?pvs=21): Comprehensive guide for designers
+- [Good Practices Design](https://goodpractices.design/): Collection of good design practices
 
 
 ###### DS & Components
+- [Google Material Design](https://material.google.com/) provides design, components & resources for Google's brand.
 - [Stack Sorted Buttons](https://stacksorted.com/buttons): Curated collection of button designs
 - [Adele Design Systems](https://adele.uxpin.com/): Repository of publicly available design systems
 - [Design Systems for Figma](https://www.designsystemsforfigma.com/): Figma-specific design system resources
 - [Component Gallery](https://component.gallery/): Showcase of design system components
+- [Design Systems Repo](https://designsystemsrepo.com/design-systems): Comprehensive list of design systems
+- [UXPin Design System Examples](https://www.uxpin.com/studio/blog/best-design-system-examples/): Showcase of notable design systems
+- [UX Planet Top Design Systems](https://uxplanet.org/top-12-design-systems-to-steal-from-and-up-your-design-game-520235d7de76): 12 design systems to learn from
+- [Untitled UI](https://www.untitledui.com/): Figma UI kit and design system
 
 
-###### Logo creation
+###### Logo Creation
+- [Logotouse](https://www.logotouse.com/): the internet’s source of free logos
 - [Logoscape AI](https://logoscapes.ai/create): AI-powered logo generator
 - [Logo AI](https://www.logoai.com/): AI logo maker and branding tool
 - [Amee.la](https://amee.la/): Simple online logo maker
@@ -280,6 +294,8 @@
 - [Fontesk](https://fontesk.com/): Free font library
 - [Awwwards Best Free Fonts](https://www.awwwards.com/best-free-fonts.html): Another curated list of free fonts
 - [Notion by Remon Leijtens](https://oval-bearberry-390.notion.site/34f437e9defa4c7798af08bdef817a40?v=23a56843676242008ad47416be02aa34): 256 free font collection
+- [Fonts In Use](https://fontsinuse.com/): Archive of typography in real-world usage
+- [Fontesk](https://fontesk.com/): Free font library
 
 
 ###### Icons & Illustrations
