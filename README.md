@@ -235,6 +235,7 @@
 - [Logo Store AI](https://logomaster.ai/): AI logo generator and customizer
 - [Looka](https://looka.com/dashboard): AI-powered logo maker and brand designer
 - [Logggos Club](http://logggos.club): Logo inspiration gallery
+- [Rebrand Gallery](https://www.rebrand.gallery/): Collection of rebranding videos
 
 
 ###### Colors
