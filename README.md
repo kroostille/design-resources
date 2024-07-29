@@ -181,7 +181,7 @@
 
 
 ###### Showcase
--[Carbon Now](https://carbon.now.sh/): Create and share beautiful images of your source code.
+- [Carbon Now](https://carbon.now.sh/): Create and share beautiful images of your source code.
 
 
 ###### Tutorials
