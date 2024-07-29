@@ -8,8 +8,9 @@
 - [UX Research](#ux-research)
 - [Design Tools](#design-tools)
 - [Prototype Tools](#prototype-tools)
-- [Animation Tools](animation-tools)
-- [Mock Ups](mock-ups)
+- [Animation Tools](#animation-tools)
+- [Mock Ups](#mock-ups)
+- [Showcase](#showcase)
 - [Tutorials](#tutorials)
 - [Communities](#communities)
 
@@ -141,6 +142,7 @@
 - [Neographe Factory Toolbox](https://www.neographefactory.com/toolbox): Diverse set of design tools
 - [Checklist Design](https://www.checklist.design/): UX and design checklists
 - [UX Tools](https://uxtools.co/tools/design): Comparison of UX design tools
+- [v0](https://v0.dev/): Generate UI with shadcn/ui from simple text prompts and images.
 
 
 ###### Prototype Tools
@@ -176,6 +178,10 @@
 - [Artboard Studio](https://artboard.studio/templates): Online graphic design tool with mockup templates
 - [LS Graphics](https://www.ls.graphics/): High-quality mockups and design resources
 - [MockRocket](https://mockrocket.io/): AI-powered mockup generator
+
+
+###### Showcase
+-[Carbon Now](https://carbon.now.sh/): Create and share beautiful images of your source code.
 
 
 ###### Tutorials
