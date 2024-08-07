@@ -98,6 +98,7 @@
 - [Ready Mag](https://readymag.com/examples/): Website inspirations made with Readymag
 - [Simform Mobile Patterns](https://www.simform.com/mobile-patterns/home): Mobile UI pattern examples
 - [Klart Pixels](https://klart.io/pixels): Handpicked design inspiration
+- [A Fresh Website](https://a-fresh.website/): Out-of-this-world design design inspiration gallery
 
 
 ###### Productivity
@@ -114,7 +115,7 @@
 - [UX Checklist](https://uxchecklist.github.io/): Comprehensive UX project checklist
 
 
-###### UX research
+###### UX Research
 - [Remote UX Workshop Activities](https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops): Ideas for remote design workshops
 - [UX Mastery Techniques](https://uxmastery.com/resources/techniques/): Comprehensive list of UX methods
 - [User Flows](https://userflows.co.uk/): UX flows inspiration and screenshots
