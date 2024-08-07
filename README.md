@@ -307,25 +307,26 @@
 
 
 ###### Icons & Illustrations
-- [Storytale](https://storytale.io/): High-class web illustrations under simple subscription.
-- [Vecteezy](https://www.vecteezy.com/): free vector art, stock photos & videos.
-- [Streamline](https://app.streamlinehq.com/home): free icons and illustrations.
-- [Undraw](https://undraw.co/illustrations): 100s of free illustrations.
-- [Iconscout](https://iconscout.com/):Icons, illustrations and 3D assets (not free).
-- [UI8](https://ui8.net/products/all-access-pass): animation templates, wireframes, ui-kit, icons, illustrations, mockups, etc. (not free). 
-- [Flat Icon](http://flaticon.com): Thousands of free flat icons.
-- [Font Awesome](http://fontawesome.io): The iconic font and CSS toolkit.
-- [Icon Finder](http://iconfinder.com): 1 million free and premium icons.
-- [The Noun Project](https://thenounproject.com/): Icons for Everything.
-- [Favicon Generator](http://www.favicon-generator.org/): Favicon & app icon generator.
-- [Freepik](http://freepik.com): Free vectors in different formats.
+- [Storytale](https://storytale.io/): High-class web illustrations under simple subscription
+- [Vecteezy](https://www.vecteezy.com/): free vector art, stock photos & videos
+- [Streamline](https://app.streamlinehq.com/home): free icons and illustrations
+- [Undraw](https://undraw.co/illustrations): 100s of free illustrations
+- [Iconscout](https://iconscout.com/):Icons, illustrations and 3D assets (not free)
+- [UI8](https://ui8.net/products/all-access-pass): animation templates, wireframes, ui-kit, icons, illustrations, mockups, etc. (not free)
+- [Flat Icon](http://flaticon.com): Thousands of free flat icons
+- [Font Awesome](http://fontawesome.io): The iconic font and CSS toolkit
+- [Icon Finder](http://iconfinder.com): 1 million free and premium icons
+- [The Noun Project](https://thenounproject.com/): Icons for Everything
+- [Favicon Generator](http://www.favicon-generator.org/): Favicon & app icon generator
+- [Freepik](http://freepik.com): Free vectors in different formats
 - [Vecteezy](http://vecteezy.com): A collection of free vector art, vector graphics, illustrator backgrounds, etc.
-- [Material Icons](https://material.io/icons/): Free to use material design icons from Google.
-- [Ionicons](http://ionicons.com/): The premium icon font for Ionic Framework.
+- [Material Icons](https://material.io/icons/): Free to use material design icons from Google
+- [Ionicons](http://ionicons.com/): The premium icon font for Ionic Framework
 - [Modern Illustration](https://www.modernillustration.org/): Curated illustration inspiration
 - [SVGL](https://svgl.app/directory/crypto): Collection of cryptocurrency logos
 - [Flaticon](https://www.flaticon.com/): Large database of free icons
-- [Huge Icons](https://hugeicons.com/): Extensive icon library for designers
+- [Huge Icons](https://hugeicons.com/): Expertly crafted top-notch icon library
+- [Lucide Icons](https://lucide.dev/icons/): Beautiful & consistent icon toolkit made by the community
 
 
 
