@@ -3,7 +3,7 @@
 ## Contents
 
 ###### General
-- [Inspiration](#inspirations)
+- [Inspirations](#inspirations)
 - [Productivity Tools](#productivity-tools)
 - [UX Research](#ux-research)
 - [Design Tools](#design-tools)
@@ -306,6 +306,7 @@
 - [Notion by Remon Leijtens](https://oval-bearberry-390.notion.site/34f437e9defa4c7798af08bdef817a40?v=23a56843676242008ad47416be02aa34): 256 free font collection
 - [Fonts In Use](https://fontsinuse.com/): Archive of typography in real-world usage
 - [Fontesk](https://fontesk.com/): Free font library
+- [Uncut](https://uncut.wtf/): Free and paid authentic fonts
 
 
 ###### Icons & Illustrations
