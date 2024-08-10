@@ -3,7 +3,7 @@
 ## Contents
 
 ###### General
-- [Inspiration](#inspiration)
+- [Inspiration](#inspirations)
 - [Productivity Tools](#productivity-tools)
 - [UX Research](#ux-research)
 - [Design Tools](#design-tools)
@@ -28,7 +28,7 @@
 ###### Mock up Tools
 ## General
 
-###### Inspiration
+###### Inspirations
 - [Httpster](https://httpster.net/2020/nov/): Inspiration for web and interactive design
 - [Muzli Design](https://httpster.net/2020/nov/): chrome extension by inVision.
 - [Awwwards](http://awwwards.com): Best web design trends.
@@ -99,6 +99,7 @@
 - [Simform Mobile Patterns](https://www.simform.com/mobile-patterns/home): Mobile UI pattern examples
 - [Klart Pixels](https://klart.io/pixels): Handpicked design inspiration
 - [A Fresh Website](https://a-fresh.website/): Out-of-this-world design design inspiration gallery
+- [Curations](https://www.curations.tech/): A curated collection of the best products on the web (2022-2023).
 
 
 ###### Productivity
