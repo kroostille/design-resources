@@ -99,20 +99,25 @@
 - [Simform Mobile Patterns](https://www.simform.com/mobile-patterns/home): Mobile UI pattern examples
 - [Klart Pixels](https://klart.io/pixels): Handpicked design inspiration
 - [A Fresh Website](https://a-fresh.website/): Out-of-this-world design design inspiration gallery
-- [Curations](https://www.curations.tech/): A curated collection of the best products on the web (2022-2023).
+- [Curations](https://www.curations.tech/): A curated collection of the best products on the web (2022-2023)
+- [Commerce Cream](https://commercecream.com/): Beautiful ecommerce experiences powered by Shopify
+- [The Headless Club](https://theheadlessclub.com/): The first directory of headless ecommerce stores that excel at both Design and Performance
+- [Storefront Design](https://www.storefront.design/): The best digital storefronts on the internet
+- [Ecomm Design](https://ecomm.design/): eCommerce Website Design Gallery & Tech Inspiration
+- [Cartalog](https://cartalog.site/): A curation of the most creative and unique online stores
 
 
 ###### Productivity
 - [Invision / Freeland](https://www.invisionapp.com/freehand/templates/role/designer): Gives you templates (wireframes, brainstorming, journey map, etc.) for every steps when doing a design project.
-- [Pomodoro](http://tomato-timer.com): A cool time management technique for a more productive way to work and study.
-- [Toggl](http://toggl.com): Time tracker to improve workplace productivity.
-- [Trello](http://trello.com): Organize and prioritize your projects in a fun, flexible and rewarding way.
-- [RescueTime](https://www.rescuetime.com): Helps you understand your daily habits so you can focus and be more productive.
-- [Qbserve](https://qotoqot.com/qbserve/): Automatic time tracking, invoicing, and real-time productivity feedback.
-- [Paste](http://pasteapp.me/): A smart clipboard history manager for Mac.
-- [Sip](http://sipapp.io/): A color picker for Mac.
-- [Timing](https://timingapp.com/): Automatic time and productivity tracking for Mac.
-- [Taskade](https://taskade.com/): Collaborative task lists and outlines for teams.
+- [Pomodoro](http://tomato-timer.com): A cool time management technique for a more productive way to work and study
+- [Toggl](http://toggl.com): Time tracker to improve workplace productivity
+- [Trello](http://trello.com): Organize and prioritize your projects in a fun, flexible and rewarding way
+- [RescueTime](https://www.rescuetime.com): Helps you understand your daily habits so you can focus and be more productive
+- [Qbserve](https://qotoqot.com/qbserve/): Automatic time tracking, invoicing, and real-time productivity feedback
+- [Paste](http://pasteapp.me/): A smart clipboard history manager for Mac
+- [Sip](http://sipapp.io/): A color picker for Mac
+- [Timing](https://timingapp.com/): Automatic time and productivity tracking for Mac
+- [Taskade](https://taskade.com/): Collaborative task lists and outlines for teams
 - [UX Checklist](https://uxchecklist.github.io/): Comprehensive UX project checklist
 
 
@@ -133,18 +138,18 @@
 
 
 ###### Design Tools
-- [Sketch](http://sketchapp.com): A lightweight program for digital design for Mac.
-- [Figma](http://figma.com): The collaborative interface design tool.
-- [Adobe XD](https://www.adobe.com/products/experience-design.html): Prototyping & wireframing Tool.
-- [inVision Studio](https://www.invisionapp.com/studio): Rapid prototyping, animation, built-in design systems, and collaboration.
-- [Canva](http://canva.com): Amazingly simple graphic design software.
-- [Framer X](https://framer.com/): Interaction Design and UX design software.
+- [Sketch](http://sketchapp.com): A lightweight program for digital design for Mac
+- [Figma](http://figma.com): The collaborative interface design tool
+- [Adobe XD](https://www.adobe.com/products/experience-design.html): Prototyping & wireframing Tool
+- [inVision Studio](https://www.invisionapp.com/studio): Rapid prototyping, animation, built-in design systems, and collaboration
+- [Canva](http://canva.com): Amazingly simple graphic design software
+- [Framer X](https://framer.com/): Interaction Design and UX design software
 - [Good Design Tools](https://www.gooddesign.tools/all): 300+ curated design tools and resources
 - [Toolkit Design](https://toolkit.design/): Curated design toolkit resources
 - [Neographe Factory Toolbox](https://www.neographefactory.com/toolbox): Diverse set of design tools
 - [Checklist Design](https://www.checklist.design/): UX and design checklists
 - [UX Tools](https://uxtools.co/tools/design): Comparison of UX design tools
-- [v0](https://v0.dev/): Generate UI with shadcn/ui from simple text prompts and images.
+- [v0](https://v0.dev/): Generate UI with shadcn/ui from simple text prompts and images
 
 
 ###### Prototype Tools
@@ -171,8 +176,8 @@
 
 
 ###### Mock Ups
-- [Mockups - UI8](https://ui8.net/): parmi les plus professionnels (payant).
-- [Device Mockup Library](https://www.figma.com/community/file/786708730400780813): un free plugin sur Figma.
+- [Mockups - UI8](https://ui8.net/): parmi les plus professionnels (payant)
+- [Device Mockup Library](https://www.figma.com/community/file/786708730400780813): un free plugin sur Figma
 - [XDGuru](https://www.xdguru.com/): templates, UI kits for Adobe XD
 - [Mockup World](https://www.mockupworld.co/): propose des mock-ups pour tout (devices et products) / free ones available
 - [Mockuuups Studio](https://mockuuups.studio/): très bon mock-up pour devices avec abonnement 5-6€/mois et 10 free
@@ -183,35 +188,35 @@
 
 
 ###### Showcase
-- [Carbon Now](https://carbon.now.sh/): Create and share beautiful images of your source code.
+- [Carbon Now](https://carbon.now.sh/): Create and share beautiful images of your source code
 
 
 ###### Tutorials
-- [Treehouse](https://teamtreehouse.com/tracks/web-design): Brings affordable, technology education to people everywhere.
-- [Tuts Plus Web Design Tutorials](http://webdesign.tutsplus.com/): Free web design and development tutorials.
-- [Springboard](https://www.springboard.com): Personalized approach, designed to help you achieve your goals and advance your career.
-- [Learn Sketch](https://www.sketchapp.com/learn/): Short videos and compiled invaluable resources to help you get started!
-- [Adobe XD Guide](https://www.xdguru.com/adobe-xd-guide/): A 12,000-words-long comprehensive guide for XD beginners and current users.
+- [Treehouse](https://teamtreehouse.com/tracks/web-design): Brings affordable, technology education to people everywhere
+- [Tuts Plus Web Design Tutorials](http://webdesign.tutsplus.com/): Free web design and development tutorials
+- [Springboard](https://www.springboard.com): Personalized approach, designed to help you achieve your goals and advance your career
+- [Learn Sketch](https://www.sketchapp.com/learn/): Short videos and compiled invaluable resources to help you get started
+- [Adobe XD Guide](https://www.xdguru.com/adobe-xd-guide/): A 12,000-words-long comprehensive guide for XD beginners and current users
 
 
 ###### Communities
-- [WD&Dev Toolkit](https://toolkit.webwide.io/): a toolkit and community.
-- [Team Sketch](http://teamsketch.io): A community for Sketch designers powered by Slack.
-- [Designer Hangout](https://www.designerhangout.co): A place where UXers from around the world discuss user experience.
-- [Design Talks](https://docs.google.com/forms/d/e/1FAIpQLSeKT_LC8kKTzJ4JjmgVQVpfl24i1qBkjJ7TYyQcNHL7fBQkYQ/viewform?c=0&w=1): A community for UI/UX design, web design, freelancing, design critiques, etc.
-- [TheDesignerShip](http://thedesignership.com/): A community of over 1,500+ designers and founders.
+- [WD&Dev Toolkit](https://toolkit.webwide.io/): a toolkit and community
+- [Team Sketch](http://teamsketch.io): A community for Sketch designers powered by Slack
+- [Designer Hangout](https://www.designerhangout.co): A place where UXers from around the world discuss user experience
+- [Design Talks](https://docs.google.com/forms/d/e/1FAIpQLSeKT_LC8kKTzJ4JjmgVQVpfl24i1qBkjJ7TYyQcNHL7fBQkYQ/viewform?c=0&w=1): A community for UI/UX design, web design, freelancing, design critiques, etc
+- [TheDesignerShip](http://thedesignership.com/): A community of over 1,500+ designers and founders
 
 
 ## In Design
 
 
 ###### Guidelines
-- [Module](https://modulesystem.design/): provides dessign system template and easy customisable (lifetime paid plan).
-- [Degreeless](https://www.degreeless.design/): almost everthing you need to know as designer.
-- [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/) to build engaging iOS apps.
-- [Laws of UX](https://lawsofux.com/) shares the maxims and principles to consider when building user interfaces.
-- [Ultimate Guide](https://www.moveoapps.com/ultimate-guide-to-mobile-app-design-principles) gives mobile app design principles and guidances.
-- [Checklist Design](https://www.checklist.design/): very useful checklists when doing a design project.
+- [Module](https://modulesystem.design/): provides dessign system template and easy customisable (lifetime paid plan)
+- [Degreeless](https://www.degreeless.design/): almost everthing you need to know as designer
+- [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/) to build engaging iOS apps
+- [Laws of UX](https://lawsofux.com/) shares the maxims and principles to consider when building user interfaces
+- [Ultimate Guide](https://www.moveoapps.com/ultimate-guide-to-mobile-app-design-principles) gives mobile app design principles and guidances
+- [Checklist Design](https://www.checklist.design/): very useful checklists when doing a design project
 - [Magenta A11y](https://www.magentaa11y.com/): Accessibility guide and checklist
 - [Intopia Accessibility Checklist](https://not-checklist.intopia.digital/): Detailed web accessibility checklist
 - [The UX Cookbook](https://theuxcookbook.com/): Collection of UX best practices and guidelines
@@ -222,7 +227,7 @@
 
 
 ###### DS & Components
-- [Google Material Design](https://material.google.com/) provides design, components & resources for Google's brand.
+- [Google Material Design](https://material.google.com/) provides design, components & resources for Google's brand
 - [Stack Sorted Buttons](https://stacksorted.com/buttons): Curated collection of button designs
 - [Adele Design Systems](https://adele.uxpin.com/): Repository of publicly available design systems
 - [Design Systems for Figma](https://www.designsystemsforfigma.com/): Figma-specific design system resources
@@ -245,19 +250,21 @@
 - [Logggos Club](http://logggos.club): Logo inspiration gallery
 - [Rebrand Gallery](https://www.rebrand.gallery/): Collection of rebranding videos
 - [Logo System](https://logosystem.co/): The biggest logo design library
+- [Brandfetch](https://brandfetch.com/): The home for the world’s brands. Discover the latest logos, colors, fonts and more.
+- [Flowjam](https://www.flowjam.co/library): Huge library of product launch videos. 
 
 
 ###### Colors
-- [Brandcolors](https://brandcolors.net/): Official colors for the world's biggest brands.
-- [Adobe Color CC](https://color.adobe.com/): Create color schemes with the color wheel or browse thousands of color combinations from the Kuler community.
-- [Paletton](http://paletton.com): A designer tool for creating color combinations that work together well.
-- [Coolors](https://coolors.co/): Generate infinite color palettes for your designs.
-- [Lol Colors](http://www.lolcolors.com/): Curated color palette inspiration.
-- [Colordot](https://color.hailpixel.com/): A color picker for humans.
-- [Gradients.io](http://www.gradients.io/): Curated gradients for designers & developers.
-- [UI Gradients](http://uigradients.com/): Beautiful color gradients.
-- [Colorzilla](http://colorzilla.com): Eyedropper, color picker, gradient generator.
-- [Happy Hues](https://www.happyhues.co/): Compare and find pre-built color palets.
+- [Brandcolors](https://brandcolors.net/): Official colors for the world's biggest brands
+- [Adobe Color CC](https://color.adobe.com/): Create color schemes with the color wheel or browse thousands of color combinations from the Kuler community
+- [Paletton](http://paletton.com): A designer tool for creating color combinations that work together well
+- [Coolors](https://coolors.co/): Generate infinite color palettes for your designs
+- [Lol Colors](http://www.lolcolors.com/): Curated color palette inspiration
+- [Colordot](https://color.hailpixel.com/): A color picker for humans
+- [Gradients.io](http://www.gradients.io/): Curated gradients for designers & developers
+- [UI Gradients](http://uigradients.com/): Beautiful color gradients
+- [Colorzilla](http://colorzilla.com): Eyedropper, color picker, gradient generator
+- [Happy Hues](https://www.happyhues.co/): Compare and find pre-built color palets
 - [Droplette](https://www.droplette.app/): Color palette generator and manager
 - [Swatchy](https://swatchy.twosix.studio/): Simple color palette creator
 - [Happy Hues](https://www.happyhues.co/): Color palette inspiration for UI design
@@ -270,16 +277,16 @@
 
 
 ###### Typography
-- [Open Foundry](https://open-foundry.com/fonts/aileron_black): access to free modeern fonts.
-- [icons8](https://icons8.com/fonts/open-sans/helvetica): To see typographies that match together.
-- [Fontpair](http://fontpair.co): Beautiful Google Font combinations and pairs.
-- [Google Web Fonts](http://fonts.google.com): Offering an intuitive and robust directory of open source designer web fonts.
-- [Font Face Ninja Browser Extension](http://fontface.ninja/): You’re browsing a website and you want to find the name of a font? Here comes the ninja!
-- [Type Anything](https://typeanything.io/): Create great font combinations.
-- [Type Scale](http://type-scale.com/): Preview and choose the right type scale for your project.
+- [Open Foundry](https://open-foundry.com/fonts/aileron_black): access to free modeern fonts
+- [icons8](https://icons8.com/fonts/open-sans/helvetica): To see typographies that match together
+- [Fontpair](http://fontpair.co): Beautiful Google Font combinations and pairs
+- [Google Web Fonts](http://fonts.google.com): Offering an intuitive and robust directory of open source designer web fonts
+- [Font Face Ninja Browser Extension](http://fontface.ninja/): Website to find the name of a font
+- [Type Anything](https://typeanything.io/): Create great font combinations
+- [Type Scale](http://type-scale.com/): Preview and choose the right type scale for your project
 - [WhatTheFont](https://www.myfonts.com/WhatTheFont/): Seen a font in an image and want to know what it is? WhatTheFont will find the closest match.
 - [Typewolf](https://www.typewolf.com/): Comprehensive web typography info, suggestions for font alternatives, and links to usage in the wild.
-- [Typ.io](http://typ.io/): Typography inspiration from real websites.
+- [Typ.io](http://typ.io/): Typography inspiration from real websites
 - [IBM Design Language](https://www.ibm.com/design/language/): IBM's design system including typography
 - [Adobe Fonts](https://fonts.adobe.com/): Adobe's font service
 - [Proportio](https://proportio.app/): Tool for typography and layout
@@ -331,16 +338,17 @@
 - [Flaticon](https://www.flaticon.com/): Large database of free icons
 - [Huge Icons](https://hugeicons.com/): Expertly crafted top-notch icon library
 - [Lucide Icons](https://lucide.dev/icons/): Beautiful & consistent icon toolkit made by the community
+- [Morflax Studio](https://studio.morflax.com/): Create 3D assets with AI
 
 
 
 ###### Images
-- [Pexels](https://pexels.com): Best free stock photos in one place.
-- [Unsplash.it](https://unsplash.com/): Placeholders using a beautiful image gallery.
-- [Pixabay](https://pixabay.com/): High quality photos and illustrations free for commercial use.
-- [Placehold.it](http://placehold.it): A quick and simple image placeholder service.
-- [Imgur](http://imgur.com): The most awesome images on the internet.
-- [Flickr](https://www.flickr.com): The home for all your photos.
+- [Pexels](https://pexels.com): Best free stock photos in one place
+- [Unsplash.it](https://unsplash.com/): Placeholders using a beautiful image gallery
+- [Pixabay](https://pixabay.com/): High quality photos and illustrations free for commercial use
+- [Placehold.it](http://placehold.it): A quick and simple image placeholder service
+- [Imgur](http://imgur.com): The most awesome images on the internet
+- [Flickr](https://www.flickr.com): The home for all your photos
 - [Nikkor](https://www.flickr.com/photos/tags/nikkor)
 - [Shutterstock](https://www.shutterstock.com/)
 - [Recraft AI](https://app.recraft.ai/): AI-powered image generation and editing
@@ -348,6 +356,7 @@
 - [Magnific AI](https://magnific.ai/): AI-enhanced image upscaling
 - [FreeFlo AI](https://freeflo.ai/): AI image generation tool
 - [Midjourney](https://www.midjourney.com/): Advanced AI image generation
+- [Lummi AI](https://www.lummi.ai/): The best free stock photos and royalty free images, powered by robots everywhere
 
 
 ###### Patterns
