@@ -315,6 +315,7 @@
 - [Fonts In Use](https://fontsinuse.com/): Archive of typography in real-world usage
 - [Fontesk](https://fontesk.com/): Free font library
 - [Uncut](https://uncut.wtf/): Free and paid authentic fonts
+- [Use & Modify](https://usemodify.com/): A personal selection of free, beautiful, classy, punk, professional, incomplete, weird typefaces.
 
 
 ###### Icons & Illustrations
@@ -339,7 +340,7 @@
 - [Huge Icons](https://hugeicons.com/): Expertly crafted top-notch icon library
 - [Lucide Icons](https://lucide.dev/icons/): Beautiful & consistent icon toolkit made by the community
 - [Morflax Studio](https://studio.morflax.com/): Create 3D assets with AI
-
+- [Isocons](https://www.isocons.app/): Carefully crafted and editable isometric icons
 
 
 ###### Images
