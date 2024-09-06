@@ -176,13 +176,12 @@
 
 
 ###### Mock Ups
-- [Mockups - UI8](https://ui8.net/): parmi les plus professionnels (payant)
-- [Device Mockup Library](https://www.figma.com/community/file/786708730400780813): un free plugin sur Figma
-- [XDGuru](https://www.xdguru.com/): templates, UI kits for Adobe XD
-- [Mockup World](https://www.mockupworld.co/): propose des mock-ups pour tout (devices et products) / free ones available
-- [Mockuuups Studio](https://mockuuups.studio/): très bon mock-up pour devices avec abonnement 5-6€/mois et 10 free
-- [A list of free iPhone 12 mockups to enhance your mobile designs](https://dribbble.com/stories/2021/02/03/free-iphone-12-mockups-templates?utm_campaign=2021-02-10&utm_medium=email&utm_source=courtside-20210210)
-- [Artboard Studio](https://artboard.studio/templates): Online graphic design tool with mockup templates
+- [Mockups - UI8](https://ui8.net/): not only mock-ups but icons, illustrations (not free)
+- [Device Mockup Library](https://www.figma.com/community/file/786708730400780813): free plugin on Figma
+- [Mockup World](https://www.mockupworld.co/): The original biggest Source of photo-realistic free PSD Mockups online
+- [Mockuuups Studio](https://mockuuups.studio/): The fastest way for designers and marketers to drag & drop visuals into 4500+ device mockups
+- [Mock-ups list by Renee Fleck](https://dribbble.com/stories/2021/02/03/free-iphone-12-mockups-templates?utm_campaign=2021-02-10&utm_medium=email&utm_source=courtside-20210210): A list of free iPhone 12 mockups to enhance your mobile designs
+- [Artboard Studio](https://artboard.studio/templates): Online graphic design tool with mockup templates and Figma plugin (free available)
 - [LS Graphics](https://www.ls.graphics/): High-quality mockups and design resources
 - [MockRocket](https://mockrocket.io/): AI-powered mockup generator
 
