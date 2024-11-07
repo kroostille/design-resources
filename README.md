@@ -105,6 +105,8 @@
 - [Storefront Design](https://www.storefront.design/): The best digital storefronts on the internet
 - [Ecomm Design](https://ecomm.design/): eCommerce Website Design Gallery & Tech Inspiration
 - [Cartalog](https://cartalog.site/): A curation of the most creative and unique online stores
+- [Call to Inspiration](https://calltoinspiration.com/): Digital Purple Hat for UX Designers & Developers
+- [Chamjo](https://chamjo.design/): Backed your product with various references
 
 
 ###### Productivity
@@ -173,6 +175,7 @@
 - [Haiku Animator](https://www.haikuanimator.com/): UI animation tool for developers
 - [Modyfi](https://www.modyfi.com/): Collaborative design and animation platform
 - [Veed.io](http://veed.io): Online video editor with animation features
+- [Unicorn Studio](https://www.unicorn.studio/): Elevate your web designs with enchanting WebGL effects, motion, and interactivity — with no code
 
 
 ###### Mock Ups
@@ -314,7 +317,8 @@
 - [Fonts In Use](https://fontsinuse.com/): Archive of typography in real-world usage
 - [Fontesk](https://fontesk.com/): Free font library
 - [Uncut](https://uncut.wtf/): Free and paid authentic fonts
-- [Use & Modify](https://usemodify.com/): A personal selection of free, beautiful, classy, punk, professional, incomplete, weird typefaces.
+- [Use & Modify](https://usemodify.com/): A personal selection of free, beautiful, classy, punk, professional, incomplete, weird typefaces
+- [Maxi Best Of Typefaces](https://maxibestof.one/typefaces): Explore a curated collection of inspiring fonts from serifs to sans-serifs used in website design
 
 
 ###### Icons & Illustrations
