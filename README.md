@@ -9,6 +9,7 @@
 - [Design Tools](#design-tools)
 - [Prototype Tools](#prototype-tools)
 - [Animation Tools](#animation-tools)
+- [Web Design Tools](#web-design-tools)
 - [Mock Ups](#mock-ups)
 - [Showcase](#showcase)
 - [Tutorials](#tutorials)
@@ -178,6 +179,10 @@
 - [Unicorn Studio](https://www.unicorn.studio/): Elevate your web designs with enchanting WebGL effects, motion, and interactivity — with no code
 
 
+###### Web Design Tools
+- [Reweb](https://www.reweb.so/): Build at the speed of no-code. Export a Next.js, Tailwind and Shadcn UI app. Customize without limits
+
+
 ###### Mock Ups
 - [Mockups - UI8](https://ui8.net/): not only mock-ups but icons, illustrations (not free)
 - [Device Mockup Library](https://www.figma.com/community/file/786708730400780813): free plugin on Figma
@@ -344,6 +349,7 @@
 - [Lucide Icons](https://lucide.dev/icons/): Beautiful & consistent icon toolkit made by the community
 - [Morflax Studio](https://studio.morflax.com/): Create 3D assets with AI
 - [Isocons](https://www.isocons.app/): Carefully crafted and editable isometric icons
+- [Morflax Studio](https://studio.morflax.com/v2/): Design and custom 3D models, forms and mock-ups in seconds 
 
 
 ###### Images
