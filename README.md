@@ -281,6 +281,7 @@
 - [UI Colors](https://uicolors.app/create): Tailwind CSS color generator
 - [Scale](https://hihayk.github.io/scale/): Color scale generator for designers
 - [RandomA11y](https://randoma11y.com/): Create endless collections of color combos
+- [ColorBox](https://colorbox.io/): Easily create color palettes
 
 
 ###### Typography
