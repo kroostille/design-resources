@@ -139,6 +139,8 @@
 - [Maze](https://maze.co/): remain complex to set up but allow rapid testing remotely
 - [Goal Project Tasks Template](https://www.notion.so/f5748b94e53d43968980fd964be8d3df?pvs=21): Notion template for project management
 - [UX Library](https://www.uxlibrary.org/): Website with UX Articles, Books, Resources, & More
+- [UXcel](https://app.uxcel.com/explore): Interactive UX design courses, challenges, resources and jobs list
+- [Tability](https://www.tability.io/kpis): A list of KPIs and success metrics per function 
 
 
 
