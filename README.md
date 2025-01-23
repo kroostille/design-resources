@@ -182,6 +182,7 @@
 - [Modyfi](https://www.modyfi.com/): Collaborative design and animation platform
 - [Veed.io](http://veed.io): Online video editor with animation features
 - [Unicorn Studio](https://www.unicorn.studio/): Elevate your web designs with enchanting WebGL effects, motion, and interactivity — with no code
+- [Jitter](https://jitter.video/): A fast and simple motion design tool
 
 
 ###### Web Design Tools
