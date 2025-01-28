@@ -182,6 +182,7 @@
 - [Modyfi](https://www.modyfi.com/): Collaborative design and animation platform
 - [Veed.io](http://veed.io): Online video editor with animation features
 - [Unicorn Studio](https://www.unicorn.studio/): Elevate your web designs with enchanting WebGL effects, motion, and interactivity — with no code
+- [Animated Emoji](https://googlefonts.github.io/noto-emoji-animation/): List of animated emojis in lottie, WebP, gif formats
 
 
 ###### Web Design Tools
