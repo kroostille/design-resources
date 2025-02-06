@@ -354,7 +354,6 @@
 - [Flaticon](https://www.flaticon.com/): Large database of free icons
 - [Huge Icons](https://hugeicons.com/): Expertly crafted top-notch icon library
 - [Lucide Icons](https://lucide.dev/icons/): Beautiful & consistent icon toolkit made by the community
-- [Morflax Studio](https://studio.morflax.com/): Create 3D assets with AI
 - [Isocons](https://www.isocons.app/): Carefully crafted and editable isometric icons
 - [Morflax Studio](https://studio.morflax.com/v2/): Design and custom 3D models, forms and mock-ups in seconds 
 
