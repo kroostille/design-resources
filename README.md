@@ -359,7 +359,6 @@
 
 
 ###### Images
-- [Pexels](https://pexels.com): Best free stock photos in one place
 - [Unsplash.it](https://unsplash.com/): Placeholders using a beautiful image gallery
 - [Pixabay](https://pixabay.com/): High quality photos and illustrations free for commercial use
 - [Placehold.it](http://placehold.it): A quick and simple image placeholder service
